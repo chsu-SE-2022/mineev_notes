@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "79e59ba95e775c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1db2e9a4a250ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4977b7f31bafc12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05. Структуры и алгоритмы обработки данных/Лекции.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "14548e271c90e7a5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01. Исходники/Задача коммивояжёра.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84153ad06a39d4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e668c88cf5d257b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "259cc0b53fe80031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88550b9182b91666",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67f6e1e83340bda3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2c711f5087fae0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ab45623f571229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8d969fb9b8b2a50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05. Структуры и алгоритмы обработки данных/Лекции.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "673c3f5d9df4d1fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0173d0ce3fb78ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05. Структуры и алгоритмы обработки данных/Лекции.md"
+              }
+            }
+          },
+          {
+            "id": "c3cba35ae135a9b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "4e3f35e4ab594268",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "259cc0b53fe80031",
+  "lastOpenFiles": [
+    "second year of study",
+    "Новая папка",
+    "Новый текстовый документ.txt",
+    "05. Структуры и алгоритмы обработки данных/Без названия.md",
+    "05. Структуры и алгоритмы обработки данных/Лекции.md",
+    "01. Исходники/Задача коммивояжёра.png",
+    "01. Исходники/Контекстное планирование.png",
+    "09. Тайм-менеджмент. Основы эффективного управления временем/Лекции.md",
+    "09. Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "01. Исходники/Методика Дэвида Аллена GTD.png",
+    "01. Исходники/Pasted image 20231003145429.png",
+    "01. Исходники/Pasted image 20231013105807.png",
+    "Без названия.canvas",
+    "01. Исходники/Метод целеполагания Дерево целей.png",
+    "01. Исходники/Анализ колосе целей.png",
+    "01. Исходники/Колесо целей.png",
+    "01. Исходники/Как измерять успех.png",
+    "02. Микроэлектроника и схемотехника ЭВМ/Лекции.md",
+    "01. Исходники/Устройство одного разряда универсального регистра.png",
+    "04. Прикладная статистика/Лекции.md",
+    "08. Программирование на ассемблере/Лекции.md",
+    "08. Программирование на ассемблере/Общая информация.md",
+    "06. Теория автоматов и формальных языков/Лекции.md",
+    "07. Деловые коммуникации на русском языке/Задания.md",
+    "07. Деловые коммуникации на русском языке/Практика.md",
+    "07. Деловые коммуникации на русском языке/Общая информация.md",
+    "08. Программирование на ассемблере",
+    "04. Прикладная статистика/Общая информация.md",
+    "02. Микроэлектроника и схемотехника ЭВМ/Обща информация.md",
+    "06. Теория автоматов и формальных языков/Общая информация.md",
+    "05. Структуры и алгоритмы обработки данных/Общая информация.md",
+    "03. ООП/Общая информация.md",
+    "03. ООП/Лекции.md",
+    "03. ООП/Pasted image 20230909225259.png.md",
+    "07. Деловые коммуникации на русском языке",
+    "09. Тайм-менеджмент. Основы эффективного управления временем/Общая информация.md",
+    "04. Прикладная статистика/Без названия.md",
+    "09. Тайм-менеджмент. Основы эффективного управления временем",
+    "00. Общее/Что-то полезное.md",
+    "Excalidraw/Drawing 2023-09-26 13.38.57.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-25 22.32.53.excalidraw.md",
+    "Excalidraw",
+    "02. Микроэлектроника и схемотехника ЭВМ/Лекции 1.md",
+    "00. Общее",
+    "01. Исходники",
+    "02. Микроэлектроника и схемотехника ЭВМ",
+    "04. Прикладная статистика"
+  ]
+}
