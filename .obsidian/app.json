@@ -1,0 +1,17 @@
+{
+  "readableLineLength": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "01. Исходники",
+  "livePreview": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
