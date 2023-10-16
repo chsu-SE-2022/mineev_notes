@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/02. Микроэлектроника и схемотехника ЭВМ/Лекции.md",
+                "file": "Second year of study/08. Программирование на ассемблере/Лекции.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/02. Микроэлектроника и схемотехника ЭВМ/Лекции.md",
+                "file": "Second year of study/08. Программирование на ассемблере/Лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/02. Микроэлектроника и схемотехника ЭВМ/Лекции.md"
+                "file": "Second year of study/08. Программирование на ассемблере/Лекции.md"
               }
             }
           },
@@ -134,14 +134,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "ad97ffc277b73037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Second year of study/08. Программирование на ассемблере/Лекции.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,14 +162,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "random-note:Открыть случайную заметку": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:Начать/остановить запись": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e4977b7f31bafc12",
   "lastOpenFiles": [
+    "Second year of study/02. Микроэлектроника и схемотехника ЭВМ/Лекции.md",
     "index",
     "Text Document.txt",
     "second year of study/02. Микроэлектроника и схемотехника ЭВМ/Лекции.md",
@@ -189,7 +199,6 @@
     "Second year of study/03. ООП/Общая информация.md",
     "Second year of study/03. ООП/Лекции.md",
     "Second year of study/02. Микроэлектроника и схемотехника ЭВМ/Обща информация.md",
-    "Second year of study/02. Микроэлектроника и схемотехника ЭВМ/Лекции.md",
     "Second year of study/00. Общее/Что-то полезное.md",
     "Second year of study/09. Тайм-менеджмент. Основы эффективного управления временем",
     "Second year of study/08. Программирование на ассемблере",
@@ -199,7 +208,6 @@
     "Second year of study/04. Прикладная статистика",
     "Second year of study/03. ООП",
     "Second year of study/02. Микроэлектроника и схемотехника ЭВМ",
-    "Second year of study/01. Исходники",
     "05. Структуры и алгоритмы обработки данных/Лекции.md",
     "second year of study/09. Тайм-менеджмент. Основы эффективного управления временем/Общая информация.md",
     "second year of study/09. Тайм-менеджмент. Основы эффективного управления временем/Лекции.md",
