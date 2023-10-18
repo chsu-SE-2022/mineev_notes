@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/08. Программирование на ассемблере/Лекции.md",
+                "file": "Second year of study/03. ООП/Лекции.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/08. Программирование на ассемблере/Лекции.md",
+                "file": "Second year of study/03. ООП/Лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/08. Программирование на ассемблере/Лекции.md"
+                "file": "Second year of study/03. ООП/Лекции.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/08. Программирование на ассемблере/Лекции.md",
+                "file": "Second year of study/03. ООП/Лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +168,8 @@
   },
   "active": "e4977b7f31bafc12",
   "lastOpenFiles": [
+    "Second year of study/08. Программирование на ассемблере/Лекции.md",
+    "Second year of study/03. ООП/Лекции.md",
     "Second year of study/02. Микроэлектроника и схемотехника ЭВМ/Лекции.md",
     "index",
     "Text Document.txt",
@@ -177,7 +179,6 @@
     "Second year of study/09. Тайм-менеджмент. Основы эффективного управления временем/Лекции.md",
     "Second year of study/09. Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/08. Программирование на ассемблере/Общая информация.md",
-    "Second year of study/08. Программирование на ассемблере/Лекции.md",
     "Second year of study/07. Деловые коммуникации на русском языке/Практика.md",
     "Second year of study/07. Деловые коммуникации на русском языке/Общая информация.md",
     "Second year of study/07. Деловые коммуникации на русском языке/Задания.md",
@@ -197,7 +198,6 @@
     "Second year of study/04. Прикладная статистика/Общая информация.md",
     "Second year of study/04. Прикладная статистика/Лекции.md",
     "Second year of study/03. ООП/Общая информация.md",
-    "Second year of study/03. ООП/Лекции.md",
     "Second year of study/02. Микроэлектроника и схемотехника ЭВМ/Обща информация.md",
     "Second year of study/00. Общее/Что-то полезное.md",
     "Second year of study/09. Тайм-менеджмент. Основы эффективного управления временем",
