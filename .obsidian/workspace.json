@@ -146,13 +146,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ecc5bd6e8a9ab93a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
