@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Лекции.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,19 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/Лекции.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c5b09da74091432a",
+            "id": "c1e8ce3f78a7343f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/Лекции.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/Лекции.md"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/Лекции.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +213,20 @@
   },
   "active": "e0c281a2856bd630",
   "lastOpenFiles": [
-    "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/05. Лекция 5.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/04. Лекция 4.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/01. Лекция 1.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/00. Общая информация.md",
+    "Second year of study/Теория автоматов и формальных языков/04. Лекция 4.md",
     "Second year of study/Теория автоматов и формальных языков/Лекции.md",
+    "Second year of study/Теория автоматов и формальных языков/06. Лекция 6.md",
+    "Second year of study/Теория автоматов и формальных языков/05. Лекция 5.md",
+    "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
     "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
     "Second year of study/Теория автоматов и формальных языков/01. Лекция 1.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
@@ -224,21 +236,9 @@
     "Second year of study/Структуры и алгоритмы обработки данных/04. Лекция 4.md",
     "Second year of study/Структуры и алгоритмы обработки данных/Лекции.md",
     "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Лекции.md",
     "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
     "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
     "Second year of study/Структуры и алгоритмы обработки данных/00. Общая информация.md",
-    "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
-    "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
-    "Second year of study/Программирование на ассемблере/Лекции.md",
-    "Second year of study/Программирование на ассемблере/02. Лекция 2.md",
-    "Second year of study/Программирование на ассемблере/00. Общая информация.md",
-    "Second year of study/Прикладная статистика/07. Лекция 7.md",
-    "Second year of study/Прикладная статистика/Лекции.md",
-    "Second year of study/Прикладная статистика/05. Лекция 5.md",
-    "Second year of study/Прикладная статистика/04. Лекция 4.md",
-    "Second year of study/Прикладная статистика/03. Лекция 3.md",
-    "Second year of study/Прикладная статистика/02. Лекция 2.md",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 2.doc",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 1.doc",
     "Second year of study/Лабы по ООП/Zadanie_na_kursovuyu_rabotu_OOP_2.doc",
