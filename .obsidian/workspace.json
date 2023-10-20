@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "7e95571f73a0a455",
+            "id": "29261cefef226df4",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Second year of study/01. Исходники/Генетические алгоритмы.png"
+                "file": "Second year of study/01. Исходники/Муравьиный алгоритм.png"
               }
             }
           }
@@ -186,9 +186,15 @@
   },
   "active": "945b4b958ab61225",
   "lastOpenFiles": [
-    "Second year of study/01. Исходники/Генетические алгоритмы.png",
+    "Second year of study/01. Исходники/T-триггер.png",
     "Second year of study/01. Исходники/Pasted image 20231003145429.png",
+    "Second year of study/01. Исходники/Pasted image 20230918193915.png",
+    "Second year of study/01. Исходники/Pasted image 20230918191707.png",
+    "Second year of study/01. Исходники/Pasted image 20230918190256.png",
+    "Second year of study/01. Исходники/Pasted image 20230918190220.png",
     "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
+    "Second year of study/01. Исходники/Муравьиный алгоритм.png",
+    "Second year of study/01. Исходники/Генетические алгоритмы.png",
     "Second year of study/01. Исходники/Pasted image 20231020120331.png",
     "Second year of study/Структуры и алгоритмы обработки данных/04. Лекция 4.md",
     "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
@@ -216,7 +222,6 @@
     "Second year of study/Микроэлектроника и схемотехника ЭВМ/04. Лекция 4.md",
     "Second year of study/01. Исходники/Триггер Шмита.png",
     "Second year of study/01. Исходники/Квадрат Декарта.png",
-    "Pasted image 20231020103204.png",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 2.doc",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 1.doc",
     "Second year of study/Лабы по ООП/Zadanie_na_kursovuyu_rabotu_OOP_2.doc",
@@ -227,11 +232,6 @@
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №5.docx",
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №4.docx",
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №3.docx",
-    "Second year of study/01. Исходники/Характеристики инвертора (потребляемая мощность).png",
-    "Second year of study/01. Исходники/Характеристика инвертора (передаточная характеристика).png",
-    "Second year of study/01. Исходники/Характеристика инвертора (время задержки).png",
-    "Second year of study/01. Исходники/Функционирование автомата.png",
-    "Second year of study/01. Исходники/Устройство одного разряда универсального регистра.png",
     "Без названия.canvas"
   ]
 }
