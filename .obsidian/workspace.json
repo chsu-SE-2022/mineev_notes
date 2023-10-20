@@ -18,6 +18,16 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7e95571f73a0a455",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Second year of study/01. Исходники/Генетические алгоритмы.png"
+              }
+            }
           }
         ]
       }
@@ -176,8 +186,12 @@
   },
   "active": "945b4b958ab61225",
   "lastOpenFiles": [
-    "Second year of study/Структуры и алгоритмы обработки данных/04. Лекция 4.md",
+    "Second year of study/01. Исходники/Генетические алгоритмы.png",
+    "Second year of study/01. Исходники/Pasted image 20231003145429.png",
     "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
+    "Second year of study/01. Исходники/Pasted image 20231020120331.png",
+    "Second year of study/Структуры и алгоритмы обработки данных/04. Лекция 4.md",
+    "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
     "Second year of study/Теория автоматов и формальных языков/06. Лекция 6.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Теория автоматов и формальных языков/05. Лекция 5.md",
@@ -185,7 +199,6 @@
     "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
     "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
     "Second year of study/Теория автоматов и формальных языков/01. Лекция 1.md",
-    "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
     "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
     "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
     "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
@@ -201,7 +214,6 @@
     "Second year of study/Прикладная статистика/02. Лекция 2.md",
     "Second year of study/Прикладная статистика/01. Лекция 1.md",
     "Second year of study/Микроэлектроника и схемотехника ЭВМ/04. Лекция 4.md",
-    "Second year of study/Микроэлектроника и схемотехника ЭВМ/03. Лекция 3.md",
     "Second year of study/01. Исходники/Триггер Шмита.png",
     "Second year of study/01. Исходники/Квадрат Декарта.png",
     "Pasted image 20231020103204.png",
@@ -220,8 +232,6 @@
     "Second year of study/01. Исходники/Характеристика инвертора (время задержки).png",
     "Second year of study/01. Исходники/Функционирование автомата.png",
     "Second year of study/01. Исходники/Устройство одного разряда универсального регистра.png",
-    "Second year of study/01. Исходники/Фронт сигналов.png",
-    "Second year of study/01. Исходники/Указатель команд.png",
     "Без названия.canvas"
   ]
 }
