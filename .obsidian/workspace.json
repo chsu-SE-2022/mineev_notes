@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4977b7f31bafc12",
+            "id": "cbb644651b875d8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/00. Общее/Что-то полезное.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Лекции.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6c4f80b21a09bed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "827e2eebb04278fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second year of study/Прикладная статистика/Лекции.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/00. Общее/Что-то полезное.md",
+                "file": "Second year of study/Прикладная статистика/Лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/00. Общее/Что-то полезное.md"
+                "file": "Second year of study/Прикладная статистика/Лекции.md"
               }
             }
           },
@@ -141,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/00. Общее/Что-то полезное.md",
+                "file": "Second year of study/Прикладная статистика/Лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +199,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4977b7f31bafc12",
+  "active": "827e2eebb04278fb",
   "lastOpenFiles": [
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Лекции.md",
+    "Second year of study/Микроэлектроника и схемотехника ЭВМ/01. Лекция 1.md",
+    "Second year of study/Микроэлектроника и схемотехника ЭВМ/04. Лекция 4.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Second year of study/Микроэлектроника и схемотехника ЭВМ/03. Лекция 3.md",
+    "Second year of study/Микроэлектроника и схемотехника ЭВМ/02. Лекция 2.md",
+    "Second year of study/Микроэлектроника и схемотехника ЭВМ/00.Общая информация.md",
+    "Second year of study/Деловые коммуникации на русском языке/Задания.md",
+    "Second year of study/Деловые коммуникации на русском языке/Практика.md",
+    "Second year of study/Деловые коммуникации на русском языке/Общая информация.md",
+    "Second year of study/00. Общее/Что-то полезное.md",
     "Second year of study/Программирование на ассемблере/Лекции.md",
     "Second year of study/Прикладная статистика/Лекции.md",
     "Second year of study/ООП/Лекции.md",
@@ -190,15 +225,10 @@
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №5.docx",
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №4.docx",
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №3.docx",
-    "Second year of study/Микроэлектроника и схемотехника ЭВМ/Лекции.md",
     "second year of study/02. Микроэлектроника и схемотехника ЭВМ/Лекции.md",
     "Second year of study/Теория автоматов и формальных языков/Общая информация.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Общая информация.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Программирование на ассемблере/Общая информация.md",
-    "Second year of study/Деловые коммуникации на русском языке/Практика.md",
-    "Second year of study/Деловые коммуникации на русском языке/Общая информация.md",
-    "Second year of study/Деловые коммуникации на русском языке/Задания.md",
     "Second year of study/Теория автоматов и формальных языков/Лекции.md",
     "Second year of study/Структуры и алгоритмы обработки данных/Общая информация.md",
     "Second year of study/Структуры и алгоритмы обработки данных/Лекции.md",
@@ -214,13 +244,9 @@
     "Second year of study/01. Исходники/Триггер Шмитта.png",
     "Second year of study/Прикладная статистика/Общая информация.md",
     "Second year of study/ООП/Общая информация.md",
-    "Second year of study/Микроэлектроника и схемотехника ЭВМ/Обща информация.md",
-    "Second year of study/00. Общее/Что-то полезное.md",
     "05. Структуры и алгоритмы обработки данных/Лекции.md",
     "second year of study/09. Тайм-менеджмент. Основы эффективного управления временем/Общая информация.md",
     "second year of study/09. Тайм-менеджмент. Основы эффективного управления временем/Лекции.md",
-    "second year of study/09. Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
-    "second year of study/08. Программирование на ассемблере/Общая информация.md",
     "Без названия.canvas"
   ]
 }
