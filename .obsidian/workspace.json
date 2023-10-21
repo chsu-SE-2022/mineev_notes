@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e1db2e9a4a250ca",
+        "id": "a87ce672a574b917",
         "type": "tabs",
         "children": [
           {
-            "id": "945b4b958ab61225",
+            "id": "19a4a68a3d3f35f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,20 +174,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "945b4b958ab61225",
+  "active": "19a4a68a3d3f35f1",
   "lastOpenFiles": [
-    "Second year of study/01. Исходники/Pasted image 20231020131956.png",
+    "Second year of study/01. Исходники/Пример.png",
+    "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
+    "Excalidraw/Drawing 2023-10-21 15.29.01.excalidraw.md",
+    "Excalidraw",
+    "Second year of study/01. Исходники/Список смежности.jpg",
+    "Second year of study/01. Исходники/Матрица смежности.jpg",
+    "Second year of study/01. Исходники/Задача о кенигсберских мостах.png",
+    "Second year of study/01. Исходники/Pasted image 20231003145429.png",
     "Second year of study/01. Исходники/Pasted image 20231020131749.png",
     "Second year of study/01. Исходники/Pasted image 20230918193915.png",
-    "Second year of study/01. Исходники/Pasted image 20231003145429.png",
-    "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
     "Second year of study/01. Исходники/Пример графа.png",
     "Second year of study/01. Исходники/Муравьиный алгоритм.png",
     "Second year of study/01. Исходники/T-триггер.png",
-    "Second year of study/01. Исходники/Pasted image 20230918191707.png",
-    "Second year of study/01. Исходники/Pasted image 20230918190256.png",
-    "Second year of study/01. Исходники/Pasted image 20230918190220.png",
-    "Second year of study/01. Исходники/Генетические алгоритмы.png",
     "Second year of study/Структуры и алгоритмы обработки данных/04. Лекция 4.md",
     "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
     "Second year of study/Теория автоматов и формальных языков/06. Лекция 6.md",
@@ -211,7 +212,6 @@
     "Second year of study/Прикладная статистика/03. Лекция 3.md",
     "Second year of study/Прикладная статистика/02. Лекция 2.md",
     "Second year of study/Прикладная статистика/01. Лекция 1.md",
-    "Second year of study/Микроэлектроника и схемотехника ЭВМ/04. Лекция 4.md",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 2.doc",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 1.doc",
     "Second year of study/Лабы по ООП/Zadanie_na_kursovuyu_rabotu_OOP_2.doc",
@@ -221,7 +221,6 @@
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №6.docx",
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №5.docx",
     "Second year of study/Лабы по ООП/C++ Лабораторная работа №4.docx",
-    "Second year of study/Лабы по ООП/C++ Лабораторная работа №3.docx",
     "Без названия.canvas"
   ]
 }
