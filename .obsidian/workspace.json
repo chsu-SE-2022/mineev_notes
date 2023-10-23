@@ -11,15 +11,26 @@
             "id": "19a4a68a3d3f35f1",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Second year of study/01. Исходники/Автомат Мили.md"
+              }
+            }
+          },
+          {
+            "id": "0cc52fe1b89a0486",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
-                "mode": "source",
+                "file": "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
+                "file": "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md"
+                "file": "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md"
               }
             }
           },
@@ -141,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
+                "file": "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,10 +185,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19a4a68a3d3f35f1",
+  "active": "0cc52fe1b89a0486",
   "lastOpenFiles": [
-    "Second year of study/Прикладная статистика/06. Лекция 6.md",
+    "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
+    "Second year of study/01. Исходники/Автомат Мили.md",
+    "Second year of study/01. Исходники/Drawing 2023-10-16 13.03.44.excalidraw.md",
+    "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
+    "Second year of study/Теория автоматов и формальных языков/01. Лекция 1.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/00. Общая информация.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
     "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
+    "Second year of study/Прикладная статистика/06. Лекция 6.md",
     "Second year of study/01. Исходники/Пример.png",
     "Excalidraw/Drawing 2023-10-21 15.29.01.excalidraw.md",
     "Excalidraw",
@@ -196,9 +215,6 @@
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Теория автоматов и формальных языков/05. Лекция 5.md",
     "Second year of study/Теория автоматов и формальных языков/04. Лекция 4.md",
-    "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
-    "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
-    "Second year of study/Теория автоматов и формальных языков/01. Лекция 1.md",
     "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
     "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
     "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
@@ -208,10 +224,6 @@
     "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
     "Second year of study/Прикладная статистика/07. Лекция 7.md",
     "Second year of study/Прикладная статистика/05. Лекция 5.md",
-    "Second year of study/Прикладная статистика/04. Лекция 4.md",
-    "Second year of study/Прикладная статистика/03. Лекция 3.md",
-    "Second year of study/Прикладная статистика/02. Лекция 2.md",
-    "Second year of study/Прикладная статистика/01. Лекция 1.md",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 2.doc",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 1.doc",
     "Second year of study/Лабы по ООП/Zadanie_na_kursovuyu_rabotu_OOP_2.doc",
