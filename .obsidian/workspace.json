@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
+                "file": "Second year of study/ООП/Лекции.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
+                "file": "Second year of study/ООП/Лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md"
+                "file": "Second year of study/ООП/Лекции.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
+                "file": "Second year of study/ООП/Лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,8 @@
   },
   "active": "19a4a68a3d3f35f1",
   "lastOpenFiles": [
-    "Second year of study/01. Исходники/Автомат Мили.md",
     "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
+    "Second year of study/01. Исходники/Автомат Мили.md",
     "Second year of study/Теория автоматов и формальных языков/04. Лекция 4.md",
     "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
     "Second year of study/01. Исходники/Drawing 2023-10-16 13.03.44.excalidraw.md",
