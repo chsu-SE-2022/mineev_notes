@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
+                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md"
+                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
+                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19a4a68a3d3f35f1",
+  "active": "8e91e045f3eafb58",
   "lastOpenFiles": [
+    "Second year of study/ООП/Лекции.md",
     "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
     "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
-    "Second year of study/ООП/Лекции.md",
     "Excalidraw/Drawing 2023-10-21 15.29.01.excalidraw.md",
     "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
     "Second year of study/01. Исходники/Автомат Мили.md",
