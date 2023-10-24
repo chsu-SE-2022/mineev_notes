@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "e2c711f5087fae0b",
