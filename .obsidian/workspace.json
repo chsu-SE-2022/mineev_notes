@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Прикладная статистика/08. Лекция 8.md",
+                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
                 "mode": "source",
                 "source": true
               }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2c711f5087fae0b",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Прикладная статистика/08. Лекция 8.md",
+                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Прикладная статистика/08. Лекция 8.md"
+                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Прикладная статистика/08. Лекция 8.md",
+                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +188,8 @@
   },
   "active": "e12366e70af14dcf",
   "lastOpenFiles": [
-    "Second year of study/01. Исходники/Отсутствие зависимости (корреляционной).png",
     "Second year of study/Прикладная статистика/08. Лекция 8.md",
+    "Second year of study/01. Исходники/Отсутствие зависимости (корреляционной).png",
     "Second year of study/01. Исходники/Нелинейная разнонаправленная зависимость.png",
     "Second year of study/01. Исходники/Нелинейная обратная зависимость.png",
     "Second year of study/01. Исходники/Нелинейная прямая зависимость.png",
