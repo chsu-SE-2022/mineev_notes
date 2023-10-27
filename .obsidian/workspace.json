@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/04. Лекция 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
               }
             }
           },
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,16 +197,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2bcb2e0575576f9",
+  "active": "e12366e70af14dcf",
   "lastOpenFiles": [
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/04. Лекция 4.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/05. Лекция 5.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
     "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Second year of study/01. Исходники/Ментальная карта.png",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/01. Лекция 1.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/05. Лекция 5.md",
     "Second year of study/01. Исходники/Отсутствие зависимости (корреляционной).png",
     "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
     "Second year of study/Прикладная статистика/08. Лекция 8.md",
