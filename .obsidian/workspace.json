@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -23,9 +23,11 @@
             "id": "d2bcb2e0575576f9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Second year of study/01. Исходники/Отсутствие зависимости (корреляционной).png"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
               }
             }
           },
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,14 +189,19 @@
   },
   "active": "e12366e70af14dcf",
   "lastOpenFiles": [
-    "Second year of study/Прикладная статистика/08. Лекция 8.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/01. Лекция 1.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/05. Лекция 5.md",
     "Second year of study/01. Исходники/Отсутствие зависимости (корреляционной).png",
+    "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
+    "Second year of study/Прикладная статистика/08. Лекция 8.md",
     "Second year of study/01. Исходники/Нелинейная разнонаправленная зависимость.png",
     "Second year of study/01. Исходники/Нелинейная обратная зависимость.png",
     "Second year of study/01. Исходники/Нелинейная прямая зависимость.png",
     "Second year of study/01. Исходники/Линейная обратная зависимость.png",
     "Second year of study/01. Исходники/Линейная прямая зависимость.png",
-    "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
     "Second year of study/Прикладная статистика/05. Лекция 5.md",
     "Second year of study/Прикладная статистика/04. Лекция 4.md",
     "Second year of study/Прикладная статистика/03. Лекция 3.md",
@@ -211,8 +218,6 @@
     "Second year of study/01. Исходники/Drawing 2023-10-16 13.03.44.excalidraw.md",
     "Second year of study/Теория автоматов и формальных языков/01. Лекция 1.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/00. Общая информация.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
     "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
     "Second year of study/01. Исходники/Пример.png",
     "Excalidraw",
@@ -221,8 +226,6 @@
     "Second year of study/01. Исходники/Задача о кенигсберских мостах.png",
     "Second year of study/Структуры и алгоритмы обработки данных/04. Лекция 4.md",
     "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
-    "Second year of study/Теория автоматов и формальных языков/06. Лекция 6.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 2.doc",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 1.doc",
     "Second year of study/Лабы по ООП/Zadanie_na_kursovuyu_rabotu_OOP_2.doc",
