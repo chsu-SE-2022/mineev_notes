@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05018be8abba0ff9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e12366e70af14dcf",
+  "active": "d2bcb2e0575576f9",
   "lastOpenFiles": [
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
+    "Second year of study/01. Исходники/Ментальная карта.png",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/01. Лекция 1.md",
@@ -219,13 +232,10 @@
     "Second year of study/01. Исходники/Drawing 2023-10-16 13.03.44.excalidraw.md",
     "Second year of study/Теория автоматов и формальных языков/01. Лекция 1.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/00. Общая информация.md",
-    "Second year of study/Структуры и алгоритмы обработки данных/05. Лекция 5.md",
     "Second year of study/01. Исходники/Пример.png",
     "Excalidraw",
     "Second year of study/01. Исходники/Список смежности.jpg",
     "Second year of study/01. Исходники/Матрица смежности.jpg",
-    "Second year of study/01. Исходники/Задача о кенигсберских мостах.png",
-    "Second year of study/Структуры и алгоритмы обработки данных/04. Лекция 4.md",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 2.doc",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 1.doc",
     "Second year of study/Лабы по ООП/Zadanie_na_kursovuyu_rabotu_OOP_2.doc",
