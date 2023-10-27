@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
+                "file": "Second year of study/Прикладная статистика/08. Лекция 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md"
+                "file": "Second year of study/Прикладная статистика/08. Лекция 8.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
+                "file": "Second year of study/Прикладная статистика/08. Лекция 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,11 +220,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae17f30af388433e",
+  "active": "1cdc46f92470a26b",
   "lastOpenFiles": [
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
-    "Second year of study/Прикладная статистика/08. Лекция 8.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
+    "Second year of study/01. Исходники/Способы контроля, используемые в ТМ.png",
+    "Second year of study/Прикладная статистика/08. Лекция 8.md",
+    "Second year of study/01. Исходники/Алгоритм принятия решений по отклонениям.jpg",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
     "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
@@ -255,10 +257,7 @@
     "Excalidraw/Drawing 2023-10-21 15.29.01.excalidraw.md",
     "Second year of study/Теория автоматов и формальных языков/03. Лекция 3.md",
     "Second year of study/01. Исходники/Автомат Мили.md",
-    "Second year of study/Теория автоматов и формальных языков/04. Лекция 4.md",
-    "Second year of study/01. Исходники/Пример.png",
     "Excalidraw",
-    "Second year of study/01. Исходники/Список смежности.jpg",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 2.doc",
     "Second year of study/Лабы по ООП/УМП_ООП_часть 1.doc",
     "Second year of study/Лабы по ООП/Zadanie_na_kursovuyu_rabotu_OOP_2.doc",
