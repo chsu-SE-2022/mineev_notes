@@ -8,51 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e12366e70af14dcf",
+            "id": "ef0fce02208218c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcc25beea112e5ff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "05018be8abba0ff9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ae17f30af388433e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md",
+                "file": "Second year of study/Деловые коммуникации на русском языке/Задания.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md",
+                "file": "Second year of study/Деловые коммуникации на русском языке/Задания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md"
+                "file": "Second year of study/Деловые коммуникации на русском языке/Задания.md"
               }
             }
           },
@@ -174,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md",
+                "file": "Second year of study/Деловые коммуникации на русском языке/Задания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae17f30af388433e",
+  "active": "ef0fce02208218c8",
   "lastOpenFiles": [
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md",
     "Second year of study/01. Исходники/Теории потребностей.png",
     "Second year of study/Прикладная статистика/08. Лекция 8.md",
@@ -220,8 +189,6 @@
     "Second year of study/01. Исходники/Алгоритм принятия решений по отклонениям.jpg",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
-    "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/04. Лекция 4.md",
     "Second year of study/01. Исходники/Дерево целей.png",
