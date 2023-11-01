@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ae5d650707609a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second year of study/ООП/Лекции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae5d650707609a96",
+  "active": "259cc0b53fe80031",
   "lastOpenFiles": [
     "Second year of study/Лабы по ООП/~$+ Лабораторная работа №2.docx",
     "Second year of study/Лабы по ООП/лаб 1/~$отчет.docx",
