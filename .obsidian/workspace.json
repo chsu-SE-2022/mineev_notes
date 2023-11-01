@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
+                "file": "Second year of study/Деловые коммуникации на русском языке/Практика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md"
+                "file": "Second year of study/Деловые коммуникации на русском языке/Практика.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
+                "file": "Second year of study/Деловые коммуникации на русском языке/Практика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,14 +175,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "259cc0b53fe80031",
+  "active": "ef0fce02208218c8",
   "lastOpenFiles": [
+    "Second year of study/ООП/Лекции.md",
     "Second year of study/Лабы по ООП/~$+ Лабораторная работа №2.docx",
     "Second year of study/Лабы по ООП/лаб 1/~$отчет.docx",
     "Second year of study/Лабы по ООП/лаб 1/отчет~C853F.tmp",
     "Second year of study/Лабы по ООП/~$П_ООП_часть 1.doc",
     "Second year of study/Деловые коммуникации на русском языке/Практика.md",
-    "Second year of study/ООП/Лекции.md",
     "Second year of study/Лабы по ООП/Вопросы к экзамену_70.doc",
     "Second year of study/Деловые коммуникации на русском языке/Общая информация.md",
     "Second year of study/Лабы по ООП/~$+ Лабораторная работа №1.docx",
@@ -191,7 +191,6 @@
     "Second year of study/Лабы по ООП/лаб 1/Lab1/Lab1/Lab1.vcxproj.filters",
     "Second year of study/Лабы по ООП/лаб 1/Lab1/Lab1/Lab1.vcxproj",
     "Second year of study/Лабы по ООП/лаб 1/Lab1/Lab1/FileName.cpp",
-    "Second year of study/Лабы по ООП/лаб 1/Lab1/Lab1.sln",
     "Second year of study/Прикладная статистика/08. Лекция 8.md",
     "Second year of study/Прикладная статистика/07. Лекция 7.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md",
