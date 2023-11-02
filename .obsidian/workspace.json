@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Прикладная статистика/09. Лекция 9.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
                 "mode": "source",
                 "source": true
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a66b64d592febd01",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md"
               }
             }
           },
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,20 +215,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94fec8206b71b9cc",
+  "active": "ef0fce02208218c8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
+    "Second year of study/Прикладная статистика/09. Лекция 9.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/00. Общая информация.md",
+    "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/04. Лекция 4.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/05. Лекция 5.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
     "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Excalidraw/Drawing 2023-10-21 15.29.01.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md",
-    "Second year of study/Прикладная статистика/09. Лекция 9.md",
     "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
     "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
     "Second year of study/Прикладная статистика/08. Лекция 8.md",
@@ -263,7 +263,6 @@
     "Second year of study/01. Исходники/Нелинейная обратная зависимость.png",
     "Second year of study/Прикладная статистика/05. Лекция 5.md",
     "Second year of study/Прикладная статистика/04. Лекция 4.md",
-    "Second year of study/Прикладная статистика/03. Лекция 3.md",
     "Без названия.canvas"
   ]
 }
