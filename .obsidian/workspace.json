@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md"
               }
             }
           },
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "e2c711f5087fae0b",
@@ -200,8 +199,12 @@
   },
   "active": "94fec8206b71b9cc",
   "lastOpenFiles": [
-    "Second year of study/Прикладная статистика/09. Лекция 9.md",
+    "Second year of study/01. Исходники/Текущие колесо целей.png",
+    "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Second year of study/Прикладная статистика/09. Лекция 9.md",
+    "Second year of study/01. Исходники/Задание 29.png",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
@@ -209,9 +212,7 @@
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/00. Общая информация.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/05. Лекция 5.md",
-    "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/04. Лекция 4.md",
-    "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Excalidraw/Drawing 2023-10-21 15.29.01.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md",
     "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
@@ -243,9 +244,7 @@
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/01. Лекция 1.md",
     "Second year of study/01. Исходники/Отсутствие зависимости (корреляционной).png",
     "Second year of study/01. Исходники/Нелинейная разнонаправленная зависимость.png",
-    "Second year of study/01. Исходники/Нелинейная обратная зависимость.png",
     "Second year of study/Прикладная статистика/05. Лекция 5.md",
-    "Second year of study/Прикладная статистика/04. Лекция 4.md",
     "Без названия.canvas"
   ]
 }
