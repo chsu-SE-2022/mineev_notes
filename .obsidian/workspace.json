@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/00. Общее/Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,8 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7fd7cef4e8502319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/00. Общее/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
+                "file": "Second year of study/00. Общее/Tasks.md"
               }
             }
           },
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/00. Общее/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,11 +212,12 @@
   },
   "active": "94fec8206b71b9cc",
   "lastOpenFiles": [
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Second year of study/00. Общее/Tasks.md",
     "Second year of study/01. Исходники/Колесо целей через год.png",
     "Second year of study/01. Исходники/Текущие колесо целей.png",
     "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
     "Second year of study/01. Исходники/Задание 29.png",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
@@ -243,7 +257,6 @@
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/03. Лекция 3.md",
     "Second year of study/01. Исходники/Ментальная карта.png",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/01. Лекция 1.md",
-    "Second year of study/01. Исходники/Отсутствие зависимости (корреляционной).png",
     "Second year of study/Прикладная статистика/05. Лекция 5.md",
     "Без названия.canvas"
   ]
