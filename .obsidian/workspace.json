@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "ae56e3537767f9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7fd7cef4e8502319",
             "type": "leaf",
             "state": {
@@ -49,12 +37,12 @@
               "state": {
                 "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,9 +200,9 @@
   },
   "active": "7fd7cef4e8502319",
   "lastOpenFiles": [
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
     "Second year of study/00. Общее/Tasks.md",
