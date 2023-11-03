@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по ООП\лаб 1\Lab1\Lab1\FileName.cpp(16,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по ООП\лаб 1\Lab1\Lab1\FileName.cpp(19,62): error C2761: "void printer::input(const char *,int,int,float)": повторное объявление члена запрещено.
+C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по ООП\лаб 1\Lab1\Lab1\FileName.cpp(20,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
