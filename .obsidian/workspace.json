@@ -40,9 +40,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3adb7626597eed3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second year of study/ООП/Лекции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56edc9f44502100a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second year of study/Прикладная статистика/09. Лекция 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/Прикладная статистика/09. Лекция 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
+                "file": "Second year of study/Прикладная статистика/09. Лекция 9.md"
               }
             }
           },
@@ -164,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/Прикладная статистика/09. Лекция 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,14 +222,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fd7cef4e8502319",
+  "active": "56edc9f44502100a",
   "lastOpenFiles": [
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
+    "Second year of study/Прикладная статистика/08. Лекция 8.md",
+    "Second year of study/Прикладная статистика/09. Лекция 9.md",
+    "Second year of study/ООП/Лекции.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Second year of study/00. Общее/Tasks.md",
+    "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
-    "Second year of study/Прикладная статистика/09. Лекция 9.md",
-    "Second year of study/00. Общее/Tasks.md",
     "Second year of study/Лабы по ООП/лаб 1/Lab1/Lab1/iux1qase.ssk~",
     "Second year of study/Лабы по ООП/лаб 1/Lab1/Lab1/x64/Debug/Lab1.tlog/CL.command.1.tlog",
     "Second year of study/Лабы по ООП/лаб 1/Lab1/Lab1/x64/Debug/Lab1.tlog/CL.write.1.tlog",
@@ -221,7 +248,6 @@
     "Second year of study/01. Исходники/Pasted image 20231103085417.png",
     "Second year of study/01. Исходники/Колесо целей через год.png",
     "Second year of study/01. Исходники/Текущие колесо целей.png",
-    "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
     "Second year of study/01. Исходники/Задание 29.png",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
@@ -233,9 +259,7 @@
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/10. Лекция 10.md",
     "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
     "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
-    "Second year of study/Прикладная статистика/08. Лекция 8.md",
     "Second year of study/Деловые коммуникации на русском языке/Практика.md",
-    "Second year of study/ООП/Лекции.md",
     "Second year of study/Деловые коммуникации на русском языке/Общая информация.md",
     "Second year of study/Деловые коммуникации на русском языке/Задания.md",
     "Second year of study/Прикладная статистика/07. Лекция 7.md",
