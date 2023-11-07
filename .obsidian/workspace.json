@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
+                "file": "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
+                "file": "Second year of study/Программирование на ассемблере/01. Лекция 1.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,16 +222,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fd7cef4e8502319",
+  "active": "56edc9f44502100a",
   "lastOpenFiles": [
-    "Second year of study/ООП/Лекции.md",
     "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
+    "Second year of study/ООП/Лекции.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Программирование на ассемблере/02. Лекция 2.md",
     "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
     "Second year of study/Прикладная статистика/08. Лекция 8.md",
     "Second year of study/01. Исходники/Проверка адекватности регрессионной модели.png",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/00. Общее/Tasks.md",
     "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
