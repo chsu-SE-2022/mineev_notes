@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/03. Лекция 3.md"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,10 +222,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56edc9f44502100a",
+  "active": "7fd7cef4e8502319",
   "lastOpenFiles": [
-    "Second year of study/Программирование на ассемблере/02. Лекция 2.md",
     "Second year of study/ООП/Лекции.md",
+    "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
+    "Second year of study/Программирование на ассемблере/02. Лекция 2.md",
     "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
     "Second year of study/Прикладная статистика/08. Лекция 8.md",
@@ -265,7 +266,6 @@
     "Second year of study/Деловые коммуникации на русском языке/Практика.md",
     "Second year of study/Деловые коммуникации на русском языке/Общая информация.md",
     "Second year of study/Деловые коммуникации на русском языке/Задания.md",
-    "Second year of study/Прикладная статистика/07. Лекция 7.md",
     "Second year of study/01. Исходники/Алгоритм принятий решений по отклонениям.jpg",
     "Second year of study/01. Исходники/Теории потребностей.png",
     "Second year of study/01. Исходники/Мотивация.png",
