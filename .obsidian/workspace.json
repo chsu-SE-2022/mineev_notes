@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "849dc2c8dc688171",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-09 18.48.15.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d74c89a656dea05b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-09 18.57.33.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "3adb7626597eed3b",
             "type": "leaf",
             "state": {
@@ -62,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da70e9efe4fe1e91",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-09 19.12.53.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-09 18.57.33.excalidraw.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-09 18.57.33.excalidraw.md"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
               }
             }
           },
@@ -186,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-09 18.57.33.excalidraw.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,23 +210,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d74c89a656dea05b",
+  "active": "03a570a6924717a6",
   "lastOpenFiles": [
-    "Second year of study/01. Исходники/Pasted Image 20231109190135_145.png",
-    "Second year of study/01. Исходники/Pasted Image 20231109185953_781.png",
-    "Second year of study/01. Исходники/Pasted Image 20231109185907_988.png",
-    "Second year of study/01. Исходники/Pasted Image 20231109185836_768.png",
-    "Second year of study/01. Исходники/Pasted Image 20231109185804_765.png",
-    "Excalidraw/Drawing 2023-11-09 18.48.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-09 18.57.33.excalidraw.md",
+    "Second year of study/01. Исходники/Ближайший месяц с помощью метода взаимного влияния.png",
+    "Excalidraw/Drawing 2023-11-09 19.12.53.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
-    "Excalidraw/Drawing 2023-11-09 18.17.55.excalidraw.md",
-    "Second year of study/01. Исходники/Pasted Image 20231109185300_784.png",
-    "Second year of study/01. Исходники/Pasted Image 20231109184949_767.png",
-    "Second year of study/01. Исходники/Pasted Image 20231109184917_773.png",
-    "Second year of study/01. Исходники/Pasted Image 20231109184807_792.png",
-    "Second year of study/01. Исходники/Веер возможностей.png",
     "Second year of study/ООП/Лекции.md",
+    "Second year of study/01. Исходники/Коллаж настоящее.png",
+    "Second year of study/01. Исходники/Коллаж будущее.png",
+    "Excalidraw/Drawing 2023-11-09 19.04.10.excalidraw.md",
+    "Second year of study/01. Исходники/Pasted image 20231109191008.png",
+    "Excalidraw/Drawing 2023-11-09 18.57.33.excalidraw.md",
+    "Second year of study/01. Исходники/Коллаж прошлое.png",
+    "Excalidraw/Drawing 2023-11-09 18.48.15.excalidraw.md",
+    "Second year of study/01. Исходники/Pasted Image 20231109190902_778.png",
+    "Second year of study/01. Исходники/Pasted Image 20231109190815_780.png",
+    "Second year of study/01. Исходники/Pasted Image 20231109190455_866.png",
+    "Second year of study/01. Исходники/Pasted Image 20231109190455_848.png",
+    "Second year of study/01. Исходники/Pasted Image 20231109190258_781.png",
+    "Second year of study/01. Исходники/Pasted Image 20231109190135_145.png",
+    "Excalidraw/Drawing 2023-11-09 18.17.55.excalidraw.md",
     "Second year of study/00. Общее/Tasks.md",
     "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
     "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
@@ -244,7 +237,6 @@
     "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
     "Second year of study/Прикладная статистика/Без названия.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
-    "Second year of study/01. Исходники/Динамические ряды.png",
     "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
     "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
     "Second year of study/Программирование на ассемблере/02. Лекция 2.md",
@@ -266,8 +258,6 @@
     "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/00. Общая информация.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/05. Лекция 5.md",
     "Без названия.canvas"
   ]
 }
