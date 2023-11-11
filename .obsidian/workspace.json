@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md"
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
+                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "259cc0b53fe80031",
+  "active": "56edc9f44502100a",
   "lastOpenFiles": [
+    "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
     "Second year of study/Лабы по Прикладной статистике/лаб 2/отчет.docx",
     "Second year of study/Лабы по Прикладной статистике/лаб 2/DOCX Document.docx",
     "Second year of study/Лабы по МЭиСТ/лаб 2/отчет.docx",
@@ -200,7 +201,6 @@
     "Second year of study/Лабы по МЭиСТ/лаб 2",
     "Second year of study/Лабы по МЭиСТ/Новая папка",
     "Second year of study/Лабы по СиАОД/лаб 1/Project1/x64/Debug/Project1.tlog/Project1.lastbuildstate",
-    "Second year of study/Лабы по СиАОД/лаб 1/Project1/x64/Debug/Project1.tlog/link.write.1.tlog",
     "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
     "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
     "Second year of study/Деловые коммуникации на русском языке/Задания.md",
