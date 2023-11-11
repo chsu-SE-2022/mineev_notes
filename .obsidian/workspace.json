@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Деловые коммуникации на русском языке/Задания.md",
+                "file": "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
+                "file": "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md"
+                "file": "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
+                "file": "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,13 +188,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3adb7626597eed3b",
+  "active": "56edc9f44502100a",
   "lastOpenFiles": [
+    "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
+    "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
     "Second year of study/Деловые коммуникации на русском языке/Задания.md",
+    "Second year of study/ООП/Лекции.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Прикладная статистика/10. Лекция 10.md",
     "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
-    "Second year of study/ООП/Лекции.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
     "Second year of study/01. Исходники/Задание 30. Ближайший месяц с помощью метода взаимного влияния.png",
     "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
@@ -233,8 +236,6 @@
     "Second year of study/Лабы по ООП/лаб 1/Lab1/x64/Debug",
     "README.md",
     "Excalidraw/Drawing 2023-10-27 06.14.21.excalidraw.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/09. Лекция 9.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/02. Лекция 2.md",
     "Без названия.canvas"
   ]
 }
