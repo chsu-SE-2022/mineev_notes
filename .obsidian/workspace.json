@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "56edc9f44502100a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/ООП/Лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md"
+                "file": "Second year of study/ООП/Лекции.md"
               }
             }
           },
@@ -154,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+                "file": "Second year of study/ООП/Лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +175,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56edc9f44502100a",
+  "active": "3adb7626597eed3b",
   "lastOpenFiles": [
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
     "Second year of study/Лабы по Прикладной статистике/лаб 2/отчет.docx",
     "Second year of study/Лабы по Прикладной статистике/лаб 2/DOCX Document.docx",
@@ -205,7 +193,6 @@
     "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
     "Second year of study/Деловые коммуникации на русском языке/Задания.md",
     "Second year of study/ООП/Лекции.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Прикладная статистика/10. Лекция 10.md",
     "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
