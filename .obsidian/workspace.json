@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
+                "file": "Second year of study/ООП/Лекции.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
+                "file": "Second year of study/ООП/Лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/06. Лекция 6.md"
+                "file": "Second year of study/ООП/Лекции.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
+                "file": "Second year of study/ООП/Лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,6 +190,9 @@
   },
   "active": "8750aa7a2eca9515",
   "lastOpenFiles": [
+    "Second year of study/Лабы по Прикладной статистике/лаб 1/~$лаб1.xlsx",
+    "Second year of study/Лабы по Прикладной статистике/лаб 1/лаб1~DF543.tmp",
+    "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
     "Second year of study/ООП/Лекции.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
@@ -202,12 +205,10 @@
     "Second year of study/Лабы по Прикладной статистике/Новая папка",
     "Second year of study/Лабы по МЭиСТ/лаб 2",
     "Second year of study/Лабы по МЭиСТ/Новая папка",
-    "Second year of study/Лабы по СиАОД/лаб 1/Project1/x64/Debug/Project1.tlog/Project1.lastbuildstate",
     "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
     "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
     "Second year of study/Деловые коммуникации на русском языке/Задания.md",
     "Second year of study/Прикладная статистика/10. Лекция 10.md",
-    "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
     "Second year of study/01. Исходники/Задание 30. Ближайший месяц с помощью метода взаимного влияния.png",
     "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
@@ -235,7 +236,6 @@
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/06. Лекция 6.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/07. Лекция 7.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/08. Лекция 8.md",
-    "README.md",
     "Без названия.canvas"
   ]
 }
