@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "79e59ba95e775c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ff17f50413ee3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3adb7626597eed3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second year of study/ООП/Лекции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8750aa7a2eca9515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second year of study/Прикладная статистика/11. Лекция 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84153ad06a39d4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e668c88cf5d257b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "259cc0b53fe80031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88550b9182b91666",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67f6e1e83340bda3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "e2c711f5087fae0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ab45623f571229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8d969fb9b8b2a50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second year of study/Прикладная статистика/11. Лекция 11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "673c3f5d9df4d1fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0173d0ce3fb78ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second year of study/Прикладная статистика/11. Лекция 11.md"
+              }
+            }
+          },
+          {
+            "id": "c3cba35ae135a9b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "4e3f35e4ab594268",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad97ffc277b73037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Second year of study/Прикладная статистика/11. Лекция 11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecc5bd6e8a9ab93a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8750aa7a2eca9515",
+  "lastOpenFiles": [
+    "Second year of study/Прикладная статистика/06. Лекция 6.md",
+    "Second year of study/Прикладная статистика/11. Лекция 11.md",
+    "Second year of study/Лабы по Прикладной статистике/лаб 1/лаб1~18861.tmp",
+    "Second year of study/Лабы по Прикладной статистике/лаб 3/отчет~13000.tmp",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/отчет~1090F.tmp",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/~$лаб4.xlsx",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/лаб4~0FC00.tmp",
+    "Second year of study/Прикладная статистика/05. Лекция 5.md",
+    "Second year of study/Прикладная статистика/00. Общая информация.md",
+    "Second year of study/Прикладная статистика/10. Лекция 10.md",
+    "Second year of study/Прикладная статистика/09. Лекция 9.md",
+    "Second year of study/Прикладная статистика/08. Лекция 8.md",
+    "Second year of study/Прикладная статистика/07. Лекция 7.md",
+    "Second year of study/Лабы по Прикладной статистике/лаб 2/лаб2~4B8E0.tmp",
+    "Second year of study/Лабы по Прикладной статистике/лаб 2/лаб2~4B035.tmp",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/лаб4.xlsx",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/XLSX Worksheet.xlsx",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/XLS Worksheet.xls",
+    "Second year of study/Прикладная статистика/04. Лекция 4.md",
+    "Second year of study/ООП/Лекции.md",
+    "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
+    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
+    "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
+    "Second year of study/Структуры и алгоритмы обработки данных/02. Лекция 2.md",
+    "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
+    "Second year of study/Деловые коммуникации на русском языке/Задания.md",
+    "Second year of study/01. Исходники/Задание 30. Ближайший месяц с помощью метода взаимного влияния.png",
+    "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
+    "Second year of study/01. Исходники/Задание 17. Коллаж прошлое.png",
+    "Excalidraw/Drawing 2023-11-09 19.12.53.excalidraw.md",
+    "Second year of study/01. Исходники/Задание 17. Коллаж будущее.png",
+    "Second year of study/01. Исходники/Задание 17. Коллаж настоящее.png",
+    "Second year of study/01. Исходники/Задание 13. Веер возможностей.png",
+    "Excalidraw/Drawing 2023-11-09 19.04.10.excalidraw.md",
+    "Second year of study/01. Исходники/Pasted image 20231109191008.png",
+    "Excalidraw/Drawing 2023-11-09 18.57.33.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-09 18.48.15.excalidraw.md",
+    "Second year of study/01. Исходники/Pasted Image 20231109190902_778.png",
+    "Second year of study/01. Исходники/Pasted Image 20231109190815_780.png",
+    "Second year of study/01. Исходники/Pasted Image 20231109190455_866.png",
+    "Second year of study/01. Исходники/Pasted Image 20231109190455_848.png",
+    "Excalidraw/Drawing 2023-11-09 18.17.55.excalidraw.md",
+    "Second year of study/00. Общее/Tasks.md",
+    "Excalidraw/Drawing 2023-10-27 05.09.07.excalidraw.md",
+    "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
+    "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
+    "Без названия.canvas"
+  ]
+}
