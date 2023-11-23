@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ff17f50413ee3b",
+        "id": "70122413d76410f9",
         "type": "tabs",
         "children": [
           {
-            "id": "3adb7626597eed3b",
+            "id": "198794c009d44838",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,12 +174,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3adb7626597eed3b",
+  "active": "259cc0b53fe80031",
   "lastOpenFiles": [
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/лаб4~BA780.tmp",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/лаб4~B8DFC.tmp",
+    "Second year of study/Лабы по Прикладной статистике/лаб 2/~$лаб2.xlsx",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/~$отчет.docx",
+    "Second year of study/Лабы по Прикладной статистике/лаб 4/~$лаб4.xlsx",
+    "Second year of study/Лабы по Прикладной статистике/лаб 3/~$лаб3.xlsx",
+    "Second year of study/Лабы по Прикладной статистике/лаб 1/~$лаб1.xlsx",
+    "Second year of study/Микроэлектроника и схемотехника ЭВМ/04. Лекция 4.md",
+    "Second year of study/Прикладная статистика/11. Лекция 11.md",
+    "Second year of study/01. Исходники/Pasted image 20231123120415.png",
+    "Second year of study/01. Исходники/Pasted image 20231123120254.png",
+    "Second year of study/01. Исходники/Pasted image 20231123120230.png",
     "Second year of study/Прикладная статистика/08. Лекция 8.md",
     "Second year of study/Прикладная статистика/09. Лекция 9.md",
     "Second year of study/Прикладная статистика/10. Лекция 10.md",
-    "Second year of study/Прикладная статистика/11. Лекция 11.md",
     "Second year of study/Микроэлектроника и схемотехника ЭВМ/01. Лекция 1.md",
     "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
     "Second year of study/Лабы по ассемблеру/лаб 2/mycode.asm",
@@ -189,7 +199,6 @@
     "Second year of study/Теория автоматов и формальных языков/04. Лекция 4.md",
     "Second year of study/Теория автоматов и формальных языков/05. Лекция 5.md",
     "Second year of study/Теория автоматов и формальных языков/02. Лекция 2.md",
-    "Second year of study/Микроэлектроника и схемотехника ЭВМ/04. Лекция 4.md",
     "Second year of study/01. Исходники/Автокорреляция уровней временного ряда 3.png",
     "Second year of study/01. Исходники/Автокорреляция уровней временного ряда 2.png",
     "Second year of study/01. Исходники/Автокорреляция уровней временного ряда 1.png",
@@ -197,22 +206,13 @@
     "Second year of study/01. Исходники/Выбор вида тенденции на основе качественного анализа.png",
     "Second year of study/01. Исходники/Виды тренда.png",
     "Second year of study/01. Исходники/Pasted image 20231118145322.png",
-    "Second year of study/01. Исходники/Pasted image 20231118145304.png",
-    "Second year of study/01. Исходники/Pasted image 20231118145238.png",
-    "Second year of study/01. Исходники/Метод аналитического выравнивания.png",
     "Second year of study/Прикладная статистика/06. Лекция 6.md",
     "Second year of study/Лабы по Прикладной статистике/лаб 1/лаб1~18861.tmp",
     "Second year of study/Лабы по Прикладной статистике/лаб 3/отчет~13000.tmp",
     "Second year of study/Лабы по Прикладной статистике/лаб 4/отчет~1090F.tmp",
-    "Second year of study/Лабы по Прикладной статистике/лаб 4/~$лаб4.xlsx",
-    "Second year of study/Лабы по Прикладной статистике/лаб 4/лаб4~0FC00.tmp",
     "Second year of study/Прикладная статистика/05. Лекция 5.md",
     "Second year of study/Прикладная статистика/00. Общая информация.md",
     "Second year of study/Прикладная статистика/07. Лекция 7.md",
-    "Second year of study/Лабы по Прикладной статистике/лаб 2/лаб2~4B8E0.tmp",
-    "Second year of study/Лабы по Прикладной статистике/лаб 2/лаб2~4B035.tmp",
-    "Second year of study/Лабы по Прикладной статистике/лаб 4/лаб4.xlsx",
-    "Second year of study/Лабы по Прикладной статистике/лаб 4/XLSX Worksheet.xlsx",
     "Second year of study/Прикладная статистика/04. Лекция 4.md",
     "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Second year of study/Структуры и алгоритмы обработки данных/01. Лекция 1.md",
@@ -222,7 +222,6 @@
     "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
     "Excalidraw/Drawing 2023-11-09 19.12.53.excalidraw.md",
     "Excalidraw/Drawing 2023-11-09 19.04.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-09 18.57.33.excalidraw.md",
     "Без названия.canvas"
   ]
 }
