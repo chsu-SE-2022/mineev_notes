@@ -1,6 +1,6 @@
 ﻿  FileName.cpp
-C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по структурке\лаб 1\Project1\FileName.cpp(79,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по структурке\лаб 1\Project1\FileName.cpp(89,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по структурке\лаб 1\Project1\FileName.cpp(90,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по структурке\лаб 1\Project1\FileName.cpp(129,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-  Project1.vcxproj -> C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по структурке\лаб 1\Project1\x64\Debug\Project1.exe
+C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по СиАОД\лаб 1\Project1\FileName.cpp(79,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по СиАОД\лаб 1\Project1\FileName.cpp(89,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по СиАОД\лаб 1\Project1\FileName.cpp(90,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по СиАОД\лаб 1\Project1\FileName.cpp(129,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Project1.vcxproj -> C:\Users\ivan_\Documents\Obsidian Vault\Second year of study\Лабы по СиАОД\лаб 1\Project1\x64\Debug\Project1.exe
