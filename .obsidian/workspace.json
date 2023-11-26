@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
-                "mode": "preview",
+                "file": "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
+                "file": "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md"
+                "file": "Second year of study/Программирование на ассемблере/05. Лекция 5.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/ООП/Лекции.md",
+                "file": "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +176,9 @@
   },
   "active": "198794c009d44838",
   "lastOpenFiles": [
-    "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
-    "Second year of study/ООП/Лекции.md",
     "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
+    "Second year of study/ООП/Лекции.md",
+    "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
     "Second year of study/ООП/Общая информация.md",
     "Second year of study/Микроэлектроника и схемотехника ЭВМ/04. Лекция 4.md",
     "Second year of study/Структуры и алгоритмы обработки данных/03. Лекция 3.md",
