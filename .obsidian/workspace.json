@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "198794c009d44838",
+  "active": "4e3f35e4ab594268",
   "lastOpenFiles": [
     "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
     "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
