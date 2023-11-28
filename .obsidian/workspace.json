@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year of study/00. Общее/Что-то полезное.md",
+                "file": "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second year of study/00. Общее/Что-то полезное.md",
+                "file": "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second year of study/00. Общее/Что-то полезное.md"
+                "file": "Second year of study/Программирование на ассемблере/01. Лекция 1.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second year of study/00. Общее/Что-то полезное.md",
+                "file": "Second year of study/Программирование на ассемблере/01. Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,11 @@
   },
   "active": "198794c009d44838",
   "lastOpenFiles": [
-    "Second year of study/00. Общее/Tasks.md",
+    "Second year of study/Программирование на ассемблере/03. Лекция 3.md",
+    "Second year of study/Программирование на ассемблере/04. Лекция 4.md",
+    "Second year of study/Программирование на ассемблере/02. Лекция 2.md",
     "Second year of study/00. Общее/Что-то полезное.md",
+    "Second year of study/00. Общее/Tasks.md",
     "Second year of study/Программирование на ассемблере/06. Лекция 6.md",
     "Second year of study/Программирование на ассемблере/05. Лекция 5.md",
     "Second year of study/ООП/Лекции.md",
@@ -219,9 +222,6 @@
     "Second year of study/Прикладная статистика/06. Лекция 6.md",
     "Second year of study/Прикладная статистика/05. Лекция 5.md",
     "Second year of study/Прикладная статистика/00. Общая информация.md",
-    "Second year of study/Прикладная статистика/07. Лекция 7.md",
-    "Second year of study/Прикладная статистика/04. Лекция 4.md",
-    "Second year of study/Тайм-менеджмент. Основы эффективного управления временем/Задания.md",
     "Без названия.canvas"
   ]
 }
