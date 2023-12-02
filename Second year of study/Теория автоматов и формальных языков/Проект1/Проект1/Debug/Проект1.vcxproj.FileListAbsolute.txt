@@ -1,0 +1,3 @@
+C:\Users\ivan_\Desktop\ТАиФЯ\теория автоматов\Проект1\Проект1\Debug\Проект1.vcxproj.AssemblyReference.cache
+C:\Users\ivan_\Desktop\ТАиФЯ\теория автоматов\Проект1\Проект1\Debug\Проект1.MyForm.resources
+C:\Users\ivan_\Desktop\ТАиФЯ\теория автоматов\Проект1\Проект1\Debug\Проект1.vcxproj.GenerateResource.cache
